@@ -24,7 +24,7 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 ## CODING AND OUTPUT
 
-### DEVELOPED BY : swarhi.s
+### DEVELOPED BY : swathi.s
 ### REG NO : 212223040219.
 
 
