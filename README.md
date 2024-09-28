@@ -1,4 +1,4 @@
-# NAME : MUKESH.R
+# NAME :swathi
 # EXP NO 2
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
